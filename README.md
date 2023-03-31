@@ -13,8 +13,8 @@ En groupe de 3, pendant 7 jours
 - Maîtriser les commandes de base git 
 
 # Screenshots : 
-![Screenshot1](https://github.com/irisgaudin/dataviz-ada/blob/main/frontend/img/Screenshot1.png),
+![Screenshot1](https://github.com/irisgaudin/dataviz-ada/blob/main/frontend/img/Screenshot1.png)
 
-![Screenshot2](https://github.com/irisgaudin/dataviz-ada/blob/main/frontend/img/Screenshot2.png),
+![Screenshot2](https://github.com/irisgaudin/dataviz-ada/blob/main/frontend/img/Screenshot2.png)
 
 ![Screenshot3](https://github.com/irisgaudin/dataviz-ada/blob/main/frontend/img/Screenshot3.png)
