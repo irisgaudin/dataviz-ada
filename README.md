@@ -1,4 +1,3 @@
-# dataviz-ada
 projet_collectif_dataviz-dashteam created by GitHub Classroom
 
 # Langages: 
@@ -12,4 +11,6 @@ En groupe de 3, pendant 7 jours
 - Connaître et manipuler les API
 - Travailler son organisation d’équipe
 - Maîtriser les commandes de base git 
+
+# Screenshots : 
 
